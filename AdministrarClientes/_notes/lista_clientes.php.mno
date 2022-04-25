@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_listar_todos" value="name:cedula;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:direccion;datatype:string,name:telefono;datatype:string,name:email;datatype:string" />
+</info>

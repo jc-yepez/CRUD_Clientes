@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_buscar_parametro" value="name:id_cliente;datatype:int,name:cedula;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:direccion;datatype:string,name:telefono;datatype:string,name:email;datatype:string" />
+	<infoitem key="UD_rsBuscarParametro" value="name:cedula;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:direccion;datatype:string,name:telefono;datatype:string,name:email;datatype:string" />
+</info>
